@@ -1,2 +1,0 @@
-set http.proxy.script proxy-script-test.js
-http.proxy on
