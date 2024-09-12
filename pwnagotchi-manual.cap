@@ -1,4 +1,5 @@
-# enable interface monitor mode and define wifi interface to be mon0
+# enable interface monitor mode and define wifi interface to be wlan0mon
+!/usr/bin/monstart
 set wifi.interface wlan0mon
 
 # api listening on http://0.0.0.0:8081/
