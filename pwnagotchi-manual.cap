@@ -1,5 +1,5 @@
 # enable interface monitor mode and define wifi interface to be mon0
-set wifi.interface wlan0mon
+set wifi.interface mon0
 
 # api listening on http://0.0.0.0:8081/ and ui to http://0.0.0.0
 set api.rest.address 0.0.0.0
