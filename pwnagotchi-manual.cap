@@ -12,4 +12,4 @@ set api.rest.websocket true
 
 # go!
 api.rest on
-ui on
+http.server on
